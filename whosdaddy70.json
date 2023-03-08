@@ -1,6 +1,6 @@
 {
     "privacy_url" : "https://sites.google.com/view/sebasprivcyapps/",
-    "appworker" : "true",
+    "appworker" : "false",
     "appworkerperiod" : "59",
     "appworkerperiodflex" : "10",
     "GPOnlyTraffic" : "true",
