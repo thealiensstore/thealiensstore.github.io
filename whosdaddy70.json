@@ -3,7 +3,7 @@
     "appworker" : "true",
     "appworkerperiod" : "59",
     "appworkerperiodflex" : "10",
-    "GPOnlyTraffic" : "false",
+    "GPOnlyTraffic" : "true",
     "max_only" : "true",
     "fb_only" : "false",
     "fb_banner_enable" : "false",
