@@ -1,8 +1,8 @@
 {
     "privacy_url" : "https://sites.google.com/view/sebasprivcyapps/",
-    "appworker" : "false",
-    "appworkerperiod" : "59",
-    "appworkerperiodflex" : "10",
+    "appworker" : "true",
+    "appworkerperiod" : "30",
+    "appworkerperiodflex" : "5",
     "GPOnlyTraffic" : "false",
     "first_ad_net" : "fb",
     "fb_banner_enable" : "true",
