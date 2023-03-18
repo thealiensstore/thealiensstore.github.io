@@ -15,7 +15,7 @@
     "fb_inter_id": "1060517627997690_1161312661251519",
     "fb_native_id": "1060517627997690_1161312767918175",
     "max_banner_enable" : "false",
-    "max_inter_enable" : "false",
+    "max_inter_enable" : "true",
     "max_native_enable" : "false",
     "max_banner_id": "",
     "max_inter_id": "",
