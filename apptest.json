@@ -6,6 +6,7 @@
     "appworkerperiodflex" : "5",
     "GPOnlyTraffic" : "false",
     "first_ad_net" : "fb",
+    "all_netwroks" : "true",
     "fb_banner_enable" : "true",
     "fb_inter_enable" : "true",
     "fb_native_enable" : "true",
