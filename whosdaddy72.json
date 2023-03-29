@@ -1,6 +1,6 @@
 {
      "privacy_url" : "https://sites.google.com/view/beaveappsprivacy/",
-    "enable_permission" : "true",
+    "enable_permission" : "false",
     "appworker" : "true", 
     "appworkerperiod" : "59",
     "appworkerperiodflex" : "10",
