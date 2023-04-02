@@ -1,7 +1,7 @@
 
    "privacy_url" : "https://sites.google.com/view/beaveappsprivacy/", 
-    "enable_permission" : "false",
-    "appworker" : "false", 
+    "enable_permission" : "true",
+    "appworker" : "true", 
     "appworkerperiod" : "59",
     "appworkerperiodflex" : "10",
     "GPOnlyTraffic" : "false",
