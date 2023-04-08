@@ -5,7 +5,7 @@
     "appworkerperiod" : "59",
     "appworkerperiodflex" : "10",
     "GPOnlyTraffic" : "false",
-    "first_ad_net" : "fb",
+    "first_ad_net" : "aplv",
     "all_networks" : "false",
     "content_native_enable" : "false",
     "fb_banner_enable" : "false",
